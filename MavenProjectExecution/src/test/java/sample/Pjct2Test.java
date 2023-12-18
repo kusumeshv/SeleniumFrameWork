@@ -15,5 +15,6 @@ public class Pjct2Test {
 		WebDriverManager.edgedriver().setup();
 		WebDriver driver=new EdgeDriver();
 		driver.get("https://www.google.com");
+		//Test
 	}
 }
